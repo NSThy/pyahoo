@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Utility
 Comment=A small tool to display stocks and cryptos from yahoo
-Exec=python /usr/bin/pyahoo.py
+Exec=python3 /usr/bin/pyahoo.py
 Icon=pyahoo
 Keywords=pyahoo
 Name=Pyahoo!
