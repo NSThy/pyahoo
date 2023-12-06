@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility
+Comment=A small tool to display stocks and cryptos from yahoo
+Exec=python /usr/bin/pyahoo.py
+Icon=pyahoo
+Keywords=pyahoo
+Name=Pyahoo!
+Terminal=false
+Type=Application
+Version=1.0
+
